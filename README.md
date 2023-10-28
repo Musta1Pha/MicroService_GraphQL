@@ -4,15 +4,15 @@
 
 <h3>L'utilisation du Rest Controller</h3>
 
-![SearchJ2E_3](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/e404a29e-3809-429b-98f8-69019a649edd)
-![SearchJ2E_5](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/be0fb79e-1c8b-4da2-8cfe-037e42a95e5b)
-![SearchJ2E_6](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/2244d601-f0a5-4867-888e-ab4ba0921150)
-![SearchJ2E_7](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/eb37282d-9a8e-423f-b65e-138926d1a70a)
+![SearchJ2E_3](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/eeee4fe6-07ee-49ea-9b2e-0b78920fd0d1)
+![SearchJ2E_5](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/51142e88-aa67-4cf9-96e1-606405c96bcf)
+![SearchJ2E_6](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/e62c74b0-ec12-4029-a6d2-68301be0d309)
+![SearchJ2E_7](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/82378d47-52be-40e9-a5ba-37f355ce7f07)
 
 <h3>L'utilisation du <strong>Spring Data Rest</strong> : </h3>
 
-![SearchJ2E_1](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/02f0ed25-4399-4a85-bfb1-6c7c8277b20f)
-![SearchJ2E_2](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/260a5878-12f4-476d-8c9c-6cf88d1ffe9d)
+![SearchJ2E_1](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/5b377052-3a25-4173-8d89-f58db2f844b6)
+![SearchJ2E_2](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/a7b64431-20b9-4196-b2ef-f6ad3bef2508)
 
 <h5>Exploration et Exploitation de GraphQL : Transformation des Requêtes en Résultats Puissants</h5>
 
@@ -23,7 +23,6 @@
 ![graphql5](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/6d8c3870-3bab-4223-b410-4a2137142448)
 ![graphql6](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/4d1541ed-2100-4c8b-b1db-ca413bc7fa28)
 ![graphql7](https://github.com/Musta1Pha/MicroService_GraphQL/assets/91842692/2b64832c-374e-4ec6-9168-f8224de4b4f1)
-
 
 
 
